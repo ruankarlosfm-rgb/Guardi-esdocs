@@ -1,0 +1,17 @@
+{
+  "name": "Guardiãodocs - Cofre Digital",
+  "short_name": "Guardiãodocs",
+  "description": "Gestor seguro de senhas e documentos com criptografia local.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2592/2592317.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
